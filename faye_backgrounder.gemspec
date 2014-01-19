@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = FayeBackgrounder::VERSION
   spec.authors       = ["Jason Truluck"]
   spec.email         = ["jason.truluck@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Publish updates to the client side from your background workers via Faye}
+  spec.summary       = spec.description
   spec.homepage      = ""
   spec.license       = "MIT"
 
